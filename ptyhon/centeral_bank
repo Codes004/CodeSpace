@@ -1,0 +1,23 @@
+def centeralbank(x):
+    def gtbank(x):
+        print("Gtbank exchange rate : ",990*x)
+        
+    def Accessbank(x):
+        print("Accessbank exchange rate : ",970*x)
+        
+    def Unionbank(x):
+        print("Unionbank exchange rate : ",1000*x)
+        
+    def UBAbank(x):
+        print("UBAbank exchange rate : ",560*x)
+        
+    def Firstbank(x):
+        print("Firstbank exchange rate : ",600*x)
+
+    gtbank(x)
+    Accessbank(x)
+    Unionbank(x)
+    UBAbank(x)
+    Firstbank(x)
+centeralbank(10)        
+        
